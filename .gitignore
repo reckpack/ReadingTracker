@@ -35,3 +35,6 @@
 *.ide-shm
 *.ide-wal
 *.cache
+*.cache
+*.cache
+*.lref
