@@ -1,0 +1,23 @@
+download this: https://www.postgresql.org/download/
+DBMS: https://www.pgadmin.org/
+
+
+https://chartio.com/resources/tutorials/how-to-define-an-auto-increment-primary-key-in-postgresql/
+
+https://stackoverflow.com/questions/34584356/add-a-foreign-key-in-pgadmin
+
+
+https://api.elephantsql.com/console/1128b8cd-b87a-4951-ab1d-072099f3909f/details?
+
+
+https://community.c9.io/t/writing-a-go-app/1725
+
+
+// help on setting the GOPATH
+https://golang.org/doc/code.html
+
+
+to get your IP in linux:
+dig +short myip.opendns.com @resolver1.opendns.com
+or
+host myip.opendns.com resolver1.opendns.com | grep "myip.opendns.com has" | awk '{print $4}'

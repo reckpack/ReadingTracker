@@ -1,0 +1,13 @@
+INSERT INTO public.categories(
+	name,api_link, index_in_editor)
+	VALUES ('Marvel','', 0);
+	
+INSERT INTO public.categories(
+	name,api_link, index_in_editor)
+VALUES ('DC', '', 1);
+
+INSERT INTO public.categories(
+	name,api_link, index_in_editor)
+VALUES ('Manga', '', 2);
+
+select * from categories

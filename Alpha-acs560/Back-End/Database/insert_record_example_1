@@ -1,0 +1,13 @@
+INSERT INTO public.records(
+	name, current_read, latest_released, genre, next_release_date, writter, artist, category_id, publisher, initial_release_date, is_finished, release_schedule)
+VALUES ('Doctor Strange', 4, 9, 'action' , to_date('2018-11-14','YYYY-MM-DD'), 'Mark Waid', 'Jesus Saiz', 19, 'Marvel', to_date('2018-08-01','YYYY-MM-DD'), false,'Monthly'),
+('The AmazingSpider-Man', 4, 8, 'action' , to_date('2018-11-14','YYYY-MM-DD'), 'Nick Spencer', 'Ryan Ottley', 19, 'Marvel', to_date('2018-07-01','YYYY-MM-DD'), false,'Monthly'),
+('The AmazingSpider-Man', 801, 801, 'action' , to_date('2018-06-20','YYYY-MM-DD'), 'Axel Alonso;Devin Lewis', 'Alex Ross', 19, 'Marvel', to_date('2015-12-01','YYYY-MM-DD'), true,'Monthly'),
+('Action Comics', '1001', 1004, 'action' , to_date('2018-11-21','YYYY-MM-DD'), 'Dan Jurgens;Brian Michael Bendis', 'Patrick Zircher', 20, 'DC', to_date('2016-06-22','YYYY-MM-DD'), false,'Biweekly'),
+('Justice League', 7, 10, 'action' , to_date('2018-04-04','YYYY-MM-DD'), 'Scott Snyder', 'Jim Cheung', 20, 'DC', to_date('2018-06-07','YYYY-MM-DD'), false,'Biweekly'),
+('Justice League', 43, 43, 'action' , NULL, 'Bryan Hitch', 'Tony Salvador Daniel', 20, 'DC', to_date('2016-07-21','YYYY-MM-DD'), true,'');
+-- Dates are in Year-Month-Day format
+
+INSERT INTO public.records(
+	name, current_read, latest_released, genre, next_release_date, writter, artist, category_id, publisher, initial_release_date, is_finished, release_schedule)
+VALUES ('Batgirl', 26, 26, 'action' , to_date('2018-08-30','YYYY-MM-DD'), 'Hope Larson', 'Rafael Albuquerque', 20, 'DC', to_date('2016-07-28','YYYY-MM-DD'), false,'Monthly');

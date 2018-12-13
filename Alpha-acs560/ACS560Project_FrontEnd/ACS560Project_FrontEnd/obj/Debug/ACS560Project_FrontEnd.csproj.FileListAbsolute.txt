@@ -1,0 +1,70 @@
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\ACS560Project_FrontEnd.exe.config
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\ACS560Project_FrontEnd.exe
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\ACS560Project_FrontEnd.pdb
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csprojAssemblyReference.cache
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.AddRecord.resources
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.Properties.Resources.resources
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csproj.GenerateResource.cache
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.exe
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.pdb
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.AddCategory.resources
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.EditRecord.resources
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.EditCategory.resources
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csproj.CopyComplete
+C:\Users\James\source\repos\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.MainForm.resources
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\ACS560Project_FrontEnd.exe.config
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\ACS560Project_FrontEnd.exe
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\ACS560Project_FrontEnd.pdb
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\Newtonsoft.Json.dll
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\Newtonsoft.Json.xml
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csprojAssemblyReference.cache
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.AddCategory.resources
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.AddRecord.resources
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.EditCategory.resources
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.EditRecord.resources
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.MainForm.resources
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.Properties.Resources.resources
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csproj.GenerateResource.cache
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csproj.CoreCompileInputs.cache
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csproj.CopyComplete
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.exe
+E:\repos\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.pdb
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\ACS560Project_FrontEnd.exe.config
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\ACS560Project_FrontEnd.exe
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\ACS560Project_FrontEnd.pdb
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\Newtonsoft.Json.dll
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\Newtonsoft.Json.xml
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.AddCategory.resources
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.AddRecord.resources
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.EditCategory.resources
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.EditRecord.resources
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.MainForm.resources
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.Properties.Resources.resources
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csproj.GenerateResource.cache
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csproj.CoreCompileInputs.cache
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csproj.CopyComplete
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.exe
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.pdb
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csprojAssemblyReference.cache
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.AddCategory.resources
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.AddRecord.resources
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.EditCategory.resources
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.EditRecord.resources
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.MainForm.resources
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.Properties.Resources.resources
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csproj.GenerateResource.cache
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csproj.CoreCompileInputs.cache
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\ACS560Project_FrontEnd.exe.config
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\ACS560Project_FrontEnd.exe
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\ACS560Project_FrontEnd.pdb
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csproj.CopyComplete
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.exe
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.pdb
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.csprojAssemblyReference.cache
+E:\GitHub\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.HelpWindow.resources
+D:\Sammy\Classes\IPFW - Grad School\Fall 2018\ACS-56000-01 Software Engineering\Bitbucket\acs560_course_project\Front-End\ACS560Project_FrontEnd\ACS560Project_FrontEnd\obj\Debug\ACS560Project_FrontEnd.HelpWindow.resources

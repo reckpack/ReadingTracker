@@ -1,0 +1,7 @@
+CREATE INDEX index_category_name
+    ON public.record USING btree
+    (category_name text_pattern_ops ASC NULLS LAST)
+    TABLESPACE pg_default;
+
+ALTER TABLE public.record
+    CLUSTER ON index_category_name;

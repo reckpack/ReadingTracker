@@ -1,0 +1,20 @@
+INSERT INTO public.records(
+	name, current_read, latest_released, genre, next_release_date, writter, artist, category_id, publisher, initial_release_date, is_finished, release_schedule)
+VALUES ('Avengers', 4, 10, 'action' , to_date('2018-12-14','YYYY-MM-DD'), 'Jason Aaron', 'Ed McGuinness', 19, 'Marvel', to_date('2018-07-14','YYYY-MM-DD'), false,'Monthly'),
+('Deadpool',3,6,'Action',to_date('2018-12-07','YYYY-MM-DD'),'Skottie Young', 'Scott Hepburn;Nic Klein', 19, 'Marvel', to_date('2018-06-18','YYYY-MM-DD'), false,'Monthly'),
+('Fantastic Four',1,4,'Action',to_date('2018-12-28','YYYY-MM-DD'),'Dan Slott;Sara Pichelli', 'Elisabetta DAmico;Sara Pichelli;Simone Bianchi;Skottie Young', 19, 'Marvel', to_date('2018-08-08','YYYY-MM-DD'), false,'Monthly'),
+('Ms. Marvel',33,36,'Action',to_date('2018-12-14','YYYY-MM-DD'),'G. Willow Wilson', 'Adrian Alphona', 19, 'Marvel', to_date('2015-12-21','YYYY-MM-DD'), false,'Monthly'),
+('Invincible Iron Man',600,600,'Action',to_date('2018-05-23','YYYY-MM-DD'),'Brian Michael Bendis', 'Stefano Caselli;Marte Gracia', 19, 'Marvel', to_date('2015-12-21','YYYY-MM-DD'), true,'Monthly'),
+('Mighty Thor',706,706,'Action',to_date('2018-04-25','YYYY-MM-DD'),'Jason Aaron', 'Russell Dauterman', 19, 'Marvel', to_date('2017-10-19','YYYY-MM-DD'), true,'Monthly'),
+('Hawkeye',16,16,'Action',to_date('2018-03-08','YYYY-MM-DD'),'Kelly Thompson', 'Leonardo Romero', 19, 'Marvel', to_date('2016-12-17','YYYY-MM-DD'), true,'Monthly');
+
+
+
+-- Dates are in Year-Month-Day format
+
+INSERT INTO public.records(
+	name, current_read, latest_released, genre, next_release_date, writter, artist, category_id, publisher, initial_release_date, is_finished, release_schedule)
+VALUES ('Batman', 54, 55, 'action' , to_date('2018-12-21','YYYY-MM-DD'), 'Tom King', 'David Finch', 20, 'DC', to_date('2016-06-15','YYYY-MM-DD'), false, 'Biweekly'),
+('Superman', 45, 45, 'action' , to_date('2018-04-18','YYYY-MM-DD'), 'Peter J. Tomasi', 'Patrick Gleason', 20, 'DC', to_date('2016-11-30','YYYY-MM-DD'), true,'Biweekly'),
+('Superman', 2, 5, 'action' , to_date('2018-12-14','YYYY-MM-DD'), 'Brian Michael Bendis', 'Ivan Reis', 20, 'DC', to_date('2016-07-12','YYYY-MM-DD'), false, 'Monthly'),
+('The Flash', 56, 59, 'action' , to_date('2018-12-29','YYYY-MM-DD'), 'Joshua Williamson', 'Carmine Di Giandomenico', 20, 'DC', to_date('2016-06-22','YYYY-MM-DD'), false, 'Biweekly');

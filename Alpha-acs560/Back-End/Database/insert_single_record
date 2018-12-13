@@ -1,0 +1,5 @@
+INSERT INTO public.records(
+	name, current_read, latest_released, genre, next_release_date, writter, artist, category_id, publisher, initial_release_date, is_finished, release_schedule)
+VALUES 
+('Justice League', '43', '43', 'action' , '', 'Bryan Hitch', 'Tony Salvador Daniel', 4, 'DC', '2016-07-21', true,'');
+-- Dates are in Year-Month-Day format

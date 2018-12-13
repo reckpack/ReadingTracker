@@ -1,0 +1,10 @@
+INSERT INTO public.record(
+	name, current_read, latest_released, genre, next_release_date, writter, artist, category_id, publisher, category_name, initial_release_date, is_finished)
+VALUES ('Doctor Strange', '4', '9', 'action' , '2018-11-15', 'Mark Waid', 'Jesus Saiz', 3, 'Marvel', 'Marvel', '2018-08-01', false),
+('Action Comics', '1001', '1004', 'action' , '2018-11-24', 'Dan Jurgens, Brian Michael Bendis', 'Patrick Zircher', 4, 'DC', 'DC', '2016-06-22', false),
+('The AmazingSpider-Man', '4', '8', 'action' , '2018-11-15', 'Nick Spencer', 'Ryan Ottley', 3, 'Marvel', 'Marvel', '2018-07-01', false),
+('Justice League', '7', '10', 'action' , '2018-11-03', 'Scott Snyder', 'Jim Cheung', 4, 'DC', 'DC', '2018-06-07', false),
+('The AmazingSpider-Man', '801', '801', 'action' , NULL, 'Axel Alonso, Devin Lewis', 'Alex Ross', 3, 'Marvel', 'Marvel', '2015-12-01', true),
+('Justice League', '43', '43', 'action' , NULL, 'Bryan Hitch', 'Tony Salvador Daniel', 4, 'DC', 'DC', '2016-07-21', true);
+-- Dates are in Year-Month-Day format
+-- For empty dates, put NULL

@@ -1,0 +1,13 @@
+CREATE TABLE public.category
+(
+    id					SERIAL PRIMARY_KEY,
+	name				TEXT NOT NULL,
+	api_link			TEXT,
+	index_in_editor 	INTEGER,
+)
+WITH (
+    OIDS = FALSE
+);
+
+ALTER TABLE public.test
+    OWNER to master;

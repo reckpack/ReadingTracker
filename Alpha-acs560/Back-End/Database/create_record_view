@@ -1,0 +1,4 @@
+CREATE VIEW record_view AS
+SELECT a.id, a.name, a.current_read, a.latest_released, a.category_id, a.publisher, a.is_finished, a.writter, a.artist, a.initial_release_date
+FROM record a
+--WHERE a.col1 IS NOT NULL --or whatever

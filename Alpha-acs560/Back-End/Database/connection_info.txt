@@ -1,0 +1,8 @@
+server: db.cx3km69qaogq.us-east-1.rds.amazonaws.com
+db name: acs560
+db username: master
+db password acs560db
+port 5432
+
+
+psql -h db.cx3km69qaogq.us-east-1.rds.amazonaws.com acs560 master

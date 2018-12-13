@@ -1,0 +1,21 @@
+CREATE TABLE public.record
+(
+    id						SERIAL PRIMARY_KEY,
+	name					TEXT NOT NULL,
+	current_read			TEXT,
+	latest_released			TEXT
+	next_release_date		DATE,
+	genre					TEXT,
+	publisher				TEXT,
+	category_name			TEXT,
+	initial_relase_date		DATE,
+	writter					TEXT,
+	artist					TEXT,
+	is_finished				BOOLEAN
+)
+WITH (
+    OIDS = FALSE
+);
+
+ALTER TABLE public.test
+    OWNER to master;
