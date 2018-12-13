@@ -38,3 +38,4 @@
 *.cache
 *.cache
 *.lref
+.vs/ReadingTracker/DesignTimeBuild/.dtbcache

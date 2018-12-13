@@ -7,18 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TabControl x:Name="tabControl" HorizontalAlignment="Center" Height="419" Margin="0,0,5,0" VerticalAlignment="Top" Width="787">
-            <TabItem Header="TabItem">
-                <Grid Background="#FFE5E5E5"/>
-            </TabItem>
-            <TabItem Header="TabItem">
-                <Grid Background="#FFE5E5E5">
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="401*"/>
-                        <ColumnDefinition Width="380*"/>
-                    </Grid.ColumnDefinitions>
-                </Grid>
-            </TabItem>
-        </TabControl>
+        
     </Grid>
 </Window>

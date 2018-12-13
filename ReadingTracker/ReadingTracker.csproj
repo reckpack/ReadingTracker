@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{159BA36C-D9AB-463D-AF79-F3E87574F9CA}</ProjectGuid>
+    <ProjectGuid>{9BE5CE6A-4C4A-4DDF-957E-5424D81FB45F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ReadingTracker</RootNamespace>
     <AssemblyName>ReadingTracker</AssemblyName>
